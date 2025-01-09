@@ -1,7 +1,7 @@
-# 🌐 MyGate Network Bot
+# 🌐 my-gate Network Bot
 
 <div align="center">
-  <img src="image.png" alt="MyGate Network Bot Banner" width="100%">
+  <img src="image.png" alt="my-gate Network Bot Banner" width="100%">
   
   ![License](https://img.shields.io/badge/license-MIT-blue)
   ![Version](https://img.shields.io/badge/version-1.0.0-green)
@@ -19,14 +19,14 @@
 - 🎯 **Auto Quest Completion**
 - ⚡ **Optimized Performance**
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 
 ## 🔧 Prerequisites
 
 - Node.js (v16 or higher)
 - npm (Node Package Manager)
-- Active MyGate Network Account
+- Active my-gate Network Account
 - Internet Connection
 
 ## 💻 Installation
@@ -48,8 +48,8 @@ curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 # Clone and install
-git clone https://github.com/Fl3xxRichie/mygate.git
-cd mygate
+git clone https://github.com/Fl3xxRichie/my-gate.git
+cd my-gate
 npm install
 ```
 
@@ -62,8 +62,8 @@ npm install
 brew install node
 
 # Clone and install
-git clone https://github.com/Fl3xxRichie/mygate.git
-cd mygate
+git clone https://github.com/Fl3xxRichie/my-gate.git
+cd my-gate
 npm install
 ```
 
@@ -76,15 +76,15 @@ pkg update && pkg upgrade
 pkg install nodejs-lts git
 
 # Clone and install
-git clone https://github.com/Fl3xxRichie/mygate.git
-cd mygate
+git clone https://github.com/Fl3xxRichie/my-gate.git
+cd my-gate
 npm install
 ```
 
 ## ⚙️ Configuration
 
 ### 1. Token Setup
-1. Open [MyGate Platform](https://app.mygate.network/login?code=QFQYyC)
+1. Open [my-gate Platform](https://app.my-gate.network/login?code=QFQYyC)
 2. Login with your Gmail account
 3. Press F12 or inspect element
 4. Go to Network tab
