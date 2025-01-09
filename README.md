@@ -1,4 +1,4 @@
-# 🌐 my-gate Network Bot
+# 🌐 MyGate Network Bot
 
 <div align="center">
   <img src="image.png" alt="my-gate Network Bot Banner" width="100%">
