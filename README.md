@@ -89,8 +89,8 @@ npm install
 ### 1. Token Setup
 1. Open [MyGate](https://app.my-gate.network/login?code=QFQYyC)
 2. Login with your Gmail account
-3. Press F12 or inspect element
-4. Go to Network tab
+3. Press F12 , CTRL+SHIFT+I or Right click and inspect element
+4. Go to Network tab, click on Me
 5. Copy your token
 6. Create/edit `tokens.txt`:
 ```bash
