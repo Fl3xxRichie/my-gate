@@ -38,6 +38,9 @@
 3. Open Command Prompt in the extracted folder
 4. Run installation:
 ```bash
+# Clone and install
+git clone https://github.com/Fl3xxRichie/my-gate.git
+cd my-gate
 npm install
 ```
 
