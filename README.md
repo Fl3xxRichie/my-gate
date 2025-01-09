@@ -1,4 +1,4 @@
-# 🌐 MyGate Network Bot
+# 🌐 MyGate CLI Automation Tool
 
 <div align="center">
   <img src="image.png" alt="my-gate Network Bot Banner" width="100%">
@@ -87,7 +87,7 @@ npm install
 ## ⚙️ Configuration
 
 ### 1. Token Setup
-1. Open [my-gate Platform](https://app.my-gate.network/login?code=QFQYyC)
+1. Open [MyGate](https://app.my-gate.network/login?code=QFQYyC)
 2. Login with your Gmail account
 3. Press F12 or inspect element
 4. Go to Network tab
